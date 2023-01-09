@@ -1,2 +1,2 @@
 # groovy-2022-12
-My OTUS practique
+Maxim Rumyntsev (Максим Румянцев) OTUS practique
