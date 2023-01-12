@@ -1,0 +1,15 @@
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+lib/
+.idea/
+/.idea/
+/**/.idea/
+/build/
+/**/build/
+*.iml
+/**/*.iml
+/.gradle/
+/gradle/
+#!/gradle/wrapper/gradle-wrapper.properties
+#!/**/*.properties
